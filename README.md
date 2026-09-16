@@ -52,6 +52,10 @@ The main objective of this project is to transform raw Amazon product sales data
 
 This dashboard helps users identify sales trends, understand product performance, and explore business data through interactive visualizations.
 
+## 🖼️ Dashboard Preview
+
+![Amazon Sales Dashboard](ss1.png)
+
 ## 💡 Key Insights
 
 The dashboard provides insights into sales performance, product categories, product-level sales, and customer reviews.
@@ -59,7 +63,9 @@ The dashboard provides insights into sales performance, product categories, prod
 Interactive filters allow users to explore the data based on **product category** and **quarter**.
 
 ## 👩‍💻 Created By
-Shirisha Bashamoni
+
+**Shirisha Bashamoni**
 
 ### 📂 Project Type
 Power BI Data Analytics Project
+t
